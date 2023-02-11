@@ -24,7 +24,7 @@ Se o ticket não puder ser resolvido, será encaminhado para um analista de inci
 
 
 
-![image-20230210115618633](Cisco-CyberOpsAssociate-Resumo/CyberOps/Módulo 02/img/image-20230210115618633.png)
+![image-20230210115618633]([Cisco-CyberOpsAssociate-Resumo/CyberOps/Módulo 02/img/image-20230210115618633.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2002/img/image-20230210115618633.png))
 
 
 
