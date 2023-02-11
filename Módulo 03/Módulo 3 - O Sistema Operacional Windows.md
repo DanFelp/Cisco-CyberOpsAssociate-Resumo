@@ -96,7 +96,7 @@ Algumas recomendações comuns de Segurança do Windows:
 
 ### Camada de Abstração de Hardware
 
-![image-20230210125001734](C:\Users\felip\Music\Markdown\Cisco-CyberOpsAssociate-Resumo\CyberOps\Módulo 03\img\image-20230210125001734.png)
+![image-20230210125001734](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2003/img/image-20230210125001734.png)
 
 
 
@@ -116,7 +116,7 @@ Em alguns casos, o kernel ainda se comunica diretamente com o hardware, portanto
 
 Existem dois modos diferentes em que uma CPU opera quando o computador tem o Windows instalado: **o modo de usuário** e o **modo kernel**.
 
-![image-20230210125154280](C:\Users\felip\Music\Markdown\Cisco-CyberOpsAssociate-Resumo\CyberOps\Módulo 03\img\image-20230210125154280.png)
+![image-20230210125154280](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2003/img/image-20230210125154280.png)
 
 Os aplicativos instalados são executados no modo de usuário e o código do sistema operacional é executado no modo kernel.
 
@@ -246,7 +246,7 @@ Processo de inicialização do windows:
 
 
 
-![image-20230210153217181](C:\Users\felip\Music\Markdown\Cisco-CyberOpsAssociate-Resumo\CyberOps\Módulo 03\img\image-20230210153217181.png)
+![image-20230210153217181](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2003/img/image-20230210153217181.png)
 
 
 
