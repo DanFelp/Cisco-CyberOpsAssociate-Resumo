@@ -24,7 +24,7 @@ Se o ticket não puder ser resolvido, será encaminhado para um analista de inci
 
 
 
-![image-20230210115618633]([Cisco-CyberOpsAssociate-Resumo/CyberOps/Módulo 02/img/image-20230210115618633.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2002/img/image-20230210115618633.png))
+![image-20230210115618633](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2002/img/image-20230210115618633.png)
 
 
 
@@ -41,7 +41,7 @@ Se o ticket não puder ser resolvido, será encaminhado para um analista de inci
     * Controle de vulnerabilidades
     * Inteligência de ameaças
 
-![image-20230210115959724](Cisco-CyberOpsAssociate-Resumo\CyberOps\Módulo 02\img\image-20230210115959724.png)
+![image-20230210115959724](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2002/img/image-20230210115959724.png)
 
 
 
@@ -53,7 +53,7 @@ SIEM e orquestração de segurança, automação e resposta (SOAR) normalmente s
 
 **SOAR** é integrado com sistema de inteligência contra ameaças e automatiza os fluxos de trabalho e investigação e resposta de incidentes, com base em manuais desenvolvidos pela equipe de segurança.
 
-![image-20230210120249803](Cisco-CyberOpsAssociate-Resumo\CyberOps\Módulo 02\img\image-20230210120249803.png)
+![image-20230210120249803](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2002/img/image-20230210120249803.png)
 
 Plataformas de segurança SOAR:
 
@@ -101,7 +101,7 @@ Cada empresa ou setor tem uma tolerância limitada para o tempo de inatividade d
 
 O tempo de atividade preferencial geralmente é medido no número de minutos de inatividade em um ano
 
-![image-20230210120842455](Cisco-CyberOpsAssociate-Resumo\CyberOps\Módulo 02\img\image-20230210120842455.png)
+![image-20230210120842455](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2002/img/image-20230210120842455.png)
 
 
 
