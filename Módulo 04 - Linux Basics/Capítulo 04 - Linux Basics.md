@@ -170,7 +170,7 @@ Existem muitos tipos de serviços. Alguns fornecem recursos externos, como arqui
 
 
 
-![cliente-servidor.png](/home/felipe/Imagens/cliente-servidor.png)
+![cliente-servidor.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2004%20-%20Linux%20Basics/img/cliente-servidor.png)
 
 
 
@@ -238,7 +238,7 @@ comunicar com servidores Web por meio do Hyper Text Transfer Protocol
 
 O cliente FTP (File Transfer Protocol) é um software usado para se comunicar com um servidor FTP.
 
-![Cliente FTP.png](/home/felipe/Documentos/Capitulo%204/img/Cliente%20FTP.png)
+![Cliente FTP.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2004%20-%20Linux%20Basics/img/Cliente%20FTP.png)
 
 
 
@@ -444,7 +444,7 @@ A figura mostra uma divisão das permissões de arquivo no Linux
 
 
 
-![PermissoesLinux.png](/home/felipe/Documentos/Capitulo%204/img/PermissoesLinux.png)
+![PermissoesLinux.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2004%20-%20Linux%20Basics/img/PermissoesLinux.png)
 
 
 
