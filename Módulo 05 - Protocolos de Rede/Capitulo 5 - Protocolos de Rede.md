@@ -36,7 +36,7 @@
   
   
   
-  ![RedeClienteServidor01.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/RedeClienteServidor01.png)
+  ![RedeClienteServidor01.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/RedeClienteServidor01.png)
 
 
 
@@ -60,7 +60,7 @@ Devido aos diversos caminhos que um pacote pode trafegar até chegar ao destino,
 
 
 
-![TraçandooCaminho2.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/TraçandooCaminho2.png)
+![TraçandooCaminho2.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/Tra%C3%A7andooCaminho2.png)
 
 
 
@@ -78,7 +78,7 @@ A comunicação, seja cara a cara ou em rede, é governada por regras chamadas d
 
 
 
-![Protocolos03.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/Protocolos03.png)
+![Protocolos03.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/Protocolos03.png)
 
 
 
@@ -102,7 +102,7 @@ Os protocolos de rede fornecem os meios para que os computadores se comuniquem e
 
 
 
-![Protocolos04.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/Protocolos04.png)
+![Protocolos04.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/Protocolos04.png)
 
 
 
@@ -133,42 +133,36 @@ Configuração de hosts
   dinamicamente informações de endereçamento IPv4 aos clientes DHCPv4 na 
   inicialização e permite que os endereços sejam reutilizados quando não 
   forem mais necessários.
-- **DHCPv6** - Protocolo de 
-  Configuração do Host Dinâmico para IPv6. DHCPv6 é semelhante ao DHCPv4. 
-  Um servidor DHCPv6 atribui dinamicamente informações de endereçamento 
-  IPv6 aos clientes DHCPv6 na inicialização.
-- **SLAAC** - Configuração automática de endereço sem estado. Um método que permite
-   que um dispositivo obtenha suas informações de endereçamento IPv6 sem 
+- **DHCPv6** - Protocolo de Configuração do Host Dinâmico para IPv6. DHCPv6 é semelhante ao DHCPv4. 
+  Um servidor DHCPv6 atribui dinamicamente informações de endereçamento IPv6 aos clientes DHCPv6 na inicialização.
+- **SLAAC** - Configuração automática de endereço sem estado. Um método que permite que um dispositivo obtenha suas informações de endereçamento IPv6 sem 
   usar um servidor DHCPv6.
 
 E-mail
 
-- **SMTP** -Protocolo de transferência de correio simples. Permite que os 
-  clientes enviem e-mails para um servidor de e-mail e permite que os 
+- **SMTP** -Protocolo de transferência de correio simples. Permite que os clientes enviem e-mails para um servidor de e-mail e permite que os 
   servidores enviem e-mails para outros servidores.
-- **POP3** - Post Office Protocol versão 3. Permite que os clientes recuperem 
-  e-mails de um servidor de e-mail e baixem o e-mail para o aplicativo de 
-  e-mail local do cliente.
-- **IMAP** - Protocolo de 
-  Acesso à Mensagem na Internet. Permite que os clientes acessem o e-mail 
-  armazenado em um servidor de e-mail e também mantenham o e-mail no 
-  servidor.
+  
+- **POP3** - Post Office Protocol versão 3. Permite que os clientes recuperem e-mails de um servidor de e-mail e baixem o e-mail para o aplicativo de e-mail local do cliente.
+
+- **IMAP** - Protocolo de Acesso à Mensagem na Internet. Permite que os clientes acessem o e-mail armazenado em um servidor de e-mail e também mantenham o e-mail no servidor.
 
 Transferência de arquivos
 
-- **FTP** - Protocolo de transferência de arquivos. Define as regras que 
-  permitem que um usuário em um host acesse e transfira arquivos para e de  outro host em uma rede. O FTP é um protocolo de entrega de arquivos confiável, orientado a conexão e reconhecido.
+- **FTP** - Protocolo de transferência de arquivos. Define as regras que permitem que um usuário em um host acesse e transfira arquivos para e de  outro host em uma rede. O FTP é um protocolo de entrega de arquivos confiável, orientado a conexão e reconhecido.
+- 
 - **SFTP** - Protocolo de transferência de arquivos SSH. Como uma extensão do protocolo Secure Shell (SSH), o SFTP pode ser usado para estabelecer uma  sessão segura de transferência de arquivos na qual a transferência é  criptografada. SSH é um método para login remoto seguro que normalmente é  usado para acessar a linha de comando de um dispositivo.
-- **TFTP** - Protocolo de Transferência de Arquivos Trivial. Um protocolo de 
-  transferência de arquivos simples e sem conexão com entrega de arquivos não confirmada e de melhor esforço. Ele usa menos sobrecarga que o FTP.
+- 
+- **TFTP** - Protocolo de Transferência de Arquivos Trivial. Um protocolo de transferência de arquivos simples e sem conexão com entrega de arquivos não confirmada e de melhor esforço. Ele usa menos sobrecarga que o FTP.
 
 Web e serviço Web
 
 - **HTTP** - Protocolo de transferência de hipertexto. Um conjunto de regras para a troca de texto, imagens gráficas, som, vídeo e outros arquivos 
   multimídia na World Wide Web.
+  
 - **HTTPS** - HTTP seguro. Uma forma segura de HTTP que criptografa os dados que são trocados pela World Wide Web.
-- **REST** - Representational State Transfer. Um serviço Web que utiliza 
-  interfaces de programação de aplicações (APIs) e pedidos HTTP para criar  aplicações Web.
+
+- **REST** - Representational State Transfer. Um serviço Web que utiliza interfaces de programação de aplicações (APIs) e pedidos HTTP para criar  aplicações Web.
 
 
 
@@ -178,17 +172,13 @@ Web e serviço Web
 
 Conexão orientada
 
-- **TCP** - Protocolo de 
-  controle de transmissão. Permite a comunicação confiável entre processos
-   executados em hosts separados e fornece transmissões confiáveis e 
-  reconhecidas que confirmam a entrega bem-sucedida.
+- **TCP** - Protocolo de controle de transmissão. Permite a comunicação confiável entre processos
+   executados em hosts separados e fornece transmissões confiáveis e reconhecidas que confirmam a entrega bem-sucedida.
 
 Sem Conexão
 
-- **UDP** - Protocolo de datagrama do usuário. Permite que um processo em 
-  execução em um host envie pacotes para um processo em execução em outro 
-  host. No entanto, o UDP não confirma a transmissão bem-sucedida do 
-  datagrama.
+- **UDP** - Protocolo de datagrama do usuário. Permite que um processo em execução em um host envie pacotes para um processo em execução em outro 
+  host. No entanto, o UDP não confirma a transmissão bem-sucedida do datagrama.
 
 
 
@@ -197,7 +187,9 @@ Sem Conexão
  Protocolo IP (Internet Protocol)
 
 - **IPv4** - Protocolo da Internet versão 4. Recebe segmentos de mensagem da camada de transporte, empacota mensagens em pacotes e endereça pacotes para entrega de ponta a ponta através de uma rede. O IPv4 usa um endereço de 32 bits.
+
 - **IPv6** - IP versão 6. Semelhante ao IPv4, mas usa um endereço de 128 bits.
+
 - **NAT** - Tradução de endereços de rede. Converte endereços IPv4 de uma rede privada em endereços IPv4 públicos globalmente exclusivos.
 
 Mensagens
@@ -262,7 +254,7 @@ Internet Protocol (IP) é um protocolo com uma função semelhante ao exemplo de
 
 
 
-![Protocolos5.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/Protocolos5.png)
+![Protocolos5.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/Protocolos5.png)
 
 ### Tamanho da Mensagem
 
@@ -337,7 +329,7 @@ Existem dois modelos em camadass que são usados para descrever operações de r
 
 
 
-![ProtocolodeRede6.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/ProtocolodeRede6.png)
+![ProtocolodeRede6.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/ProtocolodeRede6.png)
 
 
 
@@ -447,7 +439,7 @@ recebe da camada superior de acordo com o protocolo sendo usado.
 
 
 
-![PDU7.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/PDU7.png)
+![PDU7.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/PDU7.png)
 
 
 
@@ -491,7 +483,7 @@ Todas as camadas de transporte OSI, ,rede e link de dados usam endereçamento de
 
 
 
-![Camadas8.png](/home/felipe/Documentos/Estudo/CiscoCyberOps/Capitulo%205/img/Camadas8.png)
+![Camadas8.png](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo/blob/main/M%C3%B3dulo%2005%20-%20Protocolos%20de%20Rede/img/Camadas8.png)
 
 
 
